@@ -49,7 +49,7 @@ body {
 .primary-navigation  {
     width: 100%;
     background: var(--bg-clr-blue);
-    height: 2rem;
+ 
 }
 
 .primary-navigation__links {
