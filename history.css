@@ -129,5 +129,11 @@ a {
     right: 0;
 }
 
+.skip-link:hover,
+.skip-link:focus {
+    color: var(--fg-clr-normal);
+    text-decoration: underline;
+    translate: 0;
+}
 
 /* compability & responsiveness */
