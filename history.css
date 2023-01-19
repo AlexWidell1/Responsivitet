@@ -31,13 +31,13 @@
 *,
 *::before,
 *::after {                                            
-    font-family: 'Titillium Web', sans-serif;
-    font-weight: var(--ft-weight-400);
+    box-sizing: border-box;
 }
 
 body {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: var(--ft-weight-400);
     background: var(--bg-clr-offwhite);
-    
 }
 
 .header {
